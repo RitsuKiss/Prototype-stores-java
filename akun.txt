@@ -1,0 +1,10 @@
+mad,12345678,400000
+riss,akun_vvip,213090000
+panji,43212345,100000000
+bayu,12345678,10000000
+yudha-gemink,87654123,13000000
+sutarman,ujanganakna,1400000
+rissTheadmin,ga_admin_ga_asik,null
+gassaja,12346789,3000000
+yudhaAdmin,09876543,null
+yudha,akun1234,1000000
